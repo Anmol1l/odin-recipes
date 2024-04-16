@@ -1,0 +1,22 @@
+.heading {
+    color: white;
+    background-color: rgb(243, 140, 22);
+    font-size: 50px;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+}
+
+.sub {
+    color: rgb(61, 61, 61);
+    background-color: rgb(179, 175, 175);
+    font-size: 30px;
+
+}
+.ing {
+    color: rgb(228, 19, 19);
+}
+.sub-head {
+    background-color: red;
+    color: rgb(245, 245, 21);
+    font-size: 25px;
+}
